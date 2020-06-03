@@ -2,7 +2,7 @@
 
 // ovo je moj comment
 
-function blah() {
+function pizza() {
   return `Hello`;
 }
 
