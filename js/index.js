@@ -2,7 +2,7 @@
 
 // ovo je moj comment
 
-function pizza() {
+function pizzaVegeterijana() {
   return `Hello`;
 }
 
